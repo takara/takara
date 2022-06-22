@@ -1,121 +1,121 @@
 ```
 @startuml
 
-map a1 {
+map A1 {
 }
-map a2 {
+map A2 {
 }
-map a3 {
+map A3 {
 }
-map a4 {
+map A4 {
 }
-map a5 {
+map A5 {
 }
-map a6 {
+map A6 {
 }
-map a6 {
+map A6 {
 }
-map a7 {
+map A7 {
 }
-map a8 {
+map A8 {
 }
-map a9 {
+map A9 {
 }
-map a10 {
+map A10 {
 }
-map a11 {
+map A11 {
 }
-map a12 {
+map A12 {
 }
-map a13 {
+map A13 {
 }
-map a14 {
+map A14 {
 }
-map a15 {
+map A15 {
 }
-map a16 {
+map A16 {
 }
-map a17 {
+map A17 {
 }
-map a18 {
+map A18 {
 }
-map a19 {
+map A19 {
 }
-map a20 {
+map A20 {
 }
-map a45 {
+map A45 {
 }
-map a58 {
+map A58 {
 }
-map a69 {
+map A69 {
 }
-map a80 {
+map A80 {
 }
-map b3 {
+map B3 {
 }
-map b10 {
+map B10 {
 }
-map b29 {
+map B29 {
 }
-map b67 {
+map B67 {
 }
-map b87 {
+map B87 {
 }
-map b131 {
+map B131 {
 }
 
-map c2 {
+map C2 {
 }
-map c3 {
+map C3 {
 }
-map d1 {
+map D1 {
 }
-map g4 {
+map G4 {
 }
-map f22 {
+map F22 {
 }
-map f42 {
+map F42 {
 }
-map f46 {
+map F46 {
 }
-map wf01 {
+map WF01 {
 }
-a1->a2
-a2->a3
-a3->a4
-a3-->a5
-a4-->a6
-a4->a9
-a4->a69
-a5-->a7
-a5-->a8
-a5->b29
-a5->b67
-a5->d1
-a6->b3
-a7-->a12
-a7-->a14
-a7->a58
-a8->a17
-a9->a10
-a9->a45
-a9->b87
-a11->b10
-a12->a13
-a13-->a19
-a13->a20
-a14-->a15
-a14->g4
-a15->a16
-a15->f42
-a16->wf01
-a17->a18
-a18->b131
-a19->a80
-a19->f22
-b3->a11
-c2->c3
-c3->f46
+A1->A2
+A2->A3
+A3->A4
+A3-->A5
+A4-->A6
+A4->A9
+A4->A69
+A5-->A7
+A5-->A8
+A5->B29
+A5->B67
+A5->D1
+A6->B3
+A7-->A12
+A7-->A14
+A7->A58
+A8->A17
+A9->A10
+A9->A45
+A9->B87
+A11->B10
+A12->A13
+A13-->A19
+A13->A20
+A14-->A15
+A14->G4
+A15->A16
+A15->F42
+A16->WF01
+A17->A18
+A18->B131
+A19->A80
+A19->F22
+B3->A11
+C2->C3
+C3->F46
 
 @enduml
 ```
